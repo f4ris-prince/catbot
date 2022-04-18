@@ -17,7 +17,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">basilser</a> to make it public
+Project created by <a href="https://github.com/f4ris-prince"> f4ris </a> to make it public
     <br>
        | © |
         Reserved |
@@ -109,10 +109,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer one and only 
   <div align="center">
     
-  [![Basilser](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) |   
+  [![f4ris](https://github.com/f4ris-prince.png?size=100)](https://github.com/itsmebasil0) |   
 ----|
-[Basilser](https://github.com/itsmebasil0)  | 
-Base, Bug Fixes, Modules | Modifiying  as   public
+[f4ris-prince](https://github.com/f4ris-prince)  | 
+Base, Bug Fixes, Modules | Modifiying  as   public
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
