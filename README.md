@@ -54,7 +54,7 @@ the user is responsible.
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/mohammed_basil_12?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/f.4rxis?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -84,7 +84,7 @@ bash <(curl -L https://t.ly/tHxh)
 ``` 
 ## Click here to join whatsapp group 
 
-[![hehe](https://i.imgur.com/6gTX8RE.jpg)](https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC)
+[![hehe](https://i.imgur.com/6gTX8RE.jpg)](https://chat.whatsapp.com/DI2yOkeLAFJ7dg1toJuavj)
 
 ## F.A.Q
 Answer a few frequently asked questions;
