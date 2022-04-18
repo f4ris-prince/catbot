@@ -109,7 +109,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer one and only 
   <div align="center">
     
-  [![f4ris](https://github.com/f4ris-prince.png?size=100)](https://github.com/itsmebasil0) |   
+  [![f4ris](https://github.com/f4ris-prince.png?size=100)](https://github.com/f4ris-prince) |   
 ----|
 [f4ris-prince](https://github.com/f4ris-prince)  | 
 Base, Bug Fixes, Modules | Modifiying  as   public
